@@ -1,5 +1,4 @@
 Todo app
 ========
 
-After clonning run npm install.
-only android version.
+After cloning run npm install. Only android version is available.
